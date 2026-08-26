@@ -1,26 +1,21 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=whoami+%3E+chridemo;offensive+security+enthusiast;breaking+things+to+understand+them;ctf+player+%40+HTB+%2F+THM" alt="Typing SVG" />
+
+chridemo
+
+
+Offensive Security Enthusiast
+
+<img src="https://img.shields.io/badge/status-actively%20learning-9FEF00?style=flat-square&labelColor=1a1a1a" />
 </div>
 <br>
 
-
-┌─[chridemo@kali]─[~]
-└──╼ $ cat about_me.txt
-
-
-
-
-
-
-Cybersecurity enthusiast focused on offensive security.
-I spend my free time doing CTFs, breaking labs, and learning
-new exploitation techniques — one root shell at a time.
-
-
+Cybersecurity enthusiast focused on offensive security. I spend my free
+time doing CTFs, breaking labs, and learning new exploitation techniques.
 
 <br>
 
-🧰 arsenal
+
+Tools & Technologies
 
 <div align="center">
 
@@ -32,9 +27,9 @@ new exploitation techniques — one root shell at a time.
 
 
 </div>
-<br>
 
-🎯 battlegrounds
+
+Platforms
 
 <div align="center">
 
@@ -43,23 +38,15 @@ new exploitation techniques — one root shell at a time.
 
 
 </div>
-<br>
 
-📡 signal
+
+Activity
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=chridemo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=9FEF00&icon_color=9FEF00" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chridemo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=9FEF00" />
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chridemo&theme=highcontrast&hide_border=true&background=0d1117&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=chridemo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&icon_color=9FEF00&text_color=333333" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chridemo&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333" />
 </div>
 <br>
-
-
-└──╼ $ exit
-Connection to chridemo closed.
-
-
-
+<div align="center">
+<sub>Italy · GMT+2</sub>
 </div>
