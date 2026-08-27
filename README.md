@@ -32,15 +32,15 @@ Security researcher and penetration tester focused on offensive security, vulner
 
 Languages
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919820.png" alt="Bash" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Go" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="40" height="40" />
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white) ![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)
 
 Tools
 
-<img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="Metasploit" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="Wireshark" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/3033/3033332.png" alt="Kali Linux" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Nmap" width="40" height="40" />
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
 
 Infrastructure
 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Linux" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Git" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Jenkins" width="40" height="40" />
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=white)
 
 ---
 
