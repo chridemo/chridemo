@@ -1,8 +1,8 @@
 ```
- ██████╗██╗  ██╗██████╗ ██╗██████╗ ███████╗███╗   ███╗ ██████╗ 
-██╔════╝██║  ██║██╔══██╗██║██╔══██╗██╔════╝████╗ ████║██╔═══██╗
-██║     ███████║██████╔╝██║██║  ██║█████╗  ██╔████╔██║██║   ██║
-██║     ██╔══██║██╔══██╗██║██║  ██║██╔══╝  ██║╚██╔╝██║██║   ██║
+ ██████╗██╗  ██╗██████╗ ██╗██████╗ ███████╗███╗   ██╗ ██████╗ 
+██╔════╝██║  ██║██╔══██╗██║██╔══██╗██╔════╝████╗ ██║██╔═══██╗
+██║     ███████║██████╔╝██║██║  ██║█████╗  ██╔████╔╝██║   ██║
+██║     ██╔══██║██╔══██╗██║██║  ██║██╔══╝  ██║╚██╔╝██║   ██║
 ╚██████╗██║  ██║██║  ██║██║██████╔╝███████╗██║ ╚═╝ ██║╚██████╔╝
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝ 
 ```
@@ -29,9 +29,18 @@ Security researcher and penetration tester focused on offensive security, vulner
 - Red Team Operations — Social engineering, lateral movement, persistence mechanisms
 
 **Technical Stack**
-- Languages: Python, Bash, JavaScript, Go, SQL
-- Tools: Burp Suite, Metasploit, Wireshark, Kali Linux, Nmap, Hashcat
-- Infrastructure: Linux, Docker, Git, Jenkins
+
+Languages
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919820.png" alt="Bash" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Go" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="40" height="40" />
+
+Tools
+
+<img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="Metasploit" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="Wireshark" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/3033/3033332.png" alt="Kali Linux" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Nmap" width="40" height="40" />
+
+Infrastructure
+
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Linux" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Git" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Jenkins" width="40" height="40" />
 
 ---
 
@@ -47,7 +56,7 @@ Security researcher and penetration tester focused on offensive security, vulner
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/chridemo) · [Twitter](https://twitter.com/chridemo) · [GitHub](https://github.com/chridemo) · [Email](mailto:chridemo@proton.me)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/in/chridemo) [![Twitter](https://cdn-icons-png.flaticon.com/512/3256/3256013.png)](https://twitter.com/chridemo) [![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/chridemo) [![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:chridemo@proton.me)
 
 ---
 
